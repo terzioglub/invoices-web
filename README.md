@@ -22,3 +22,7 @@ npm run dev            # http://localhost:3000
 ## Status
 
 The experiment is finished. This repo does not accept pull requests.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
